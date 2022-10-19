@@ -17,7 +17,7 @@ async function handleSubmit(event) {
 
     Swal.fire({
       title: "Envio correcto",
-      text: "Gracias por contactarme, te escribire pronto :) ",
+      text: "Gracias por contactarnos, te escribiremos pronto :) ",
       icon: "success",
       confirmButtonText: "Volver",
     });
